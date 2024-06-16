@@ -15,3 +15,6 @@ https://github.com/Markzhang8617/MobileSolution/tree/main/Lab4
 
 Lab5
 https://github.com/Markzhang8617/MobileSolution/tree/main/Lab5
+
+Lab6
+https://github.com/Markzhang8617/MobileSolution/tree/main/Lab6
