@@ -18,3 +18,6 @@ https://github.com/Markzhang8617/MobileSolution/tree/main/Lab5
 
 Lab6
 https://github.com/Markzhang8617/MobileSolution/tree/main/Lab6
+
+Assignment2
+https://github.com/Markzhang8617/MobileSolution/tree/main/Assignment2
