@@ -21,3 +21,6 @@ https://github.com/Markzhang8617/MobileSolution/tree/main/Lab6
 
 Assignment2
 https://github.com/Markzhang8617/MobileSolution/tree/main/Assignment2
+
+MidTerm
+https://github.com/Markzhang8617/MobileSolution/tree/main/TaskApplication
