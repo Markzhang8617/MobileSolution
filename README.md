@@ -27,3 +27,6 @@ https://github.com/Markzhang8617/MobileSolution/tree/main/TaskApplication
 
 Lab7
 https://github.com/Markzhang8617/MobileSolution/tree/main/Lab7
+
+Lab8
+https://github.com/Markzhang8617/MobileSolution/tree/main/Lab8
