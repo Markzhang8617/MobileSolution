@@ -25,6 +25,9 @@ https://github.com/Markzhang8617/MobileSolution/tree/main/Assignment2
 MidTerm
 https://github.com/Markzhang8617/MobileSolution/tree/main/TaskApplication
 
+FianlExam
+https://github.com/Markzhang8617/MobileSolution/tree/main/TripApplication
+
 Lab7
 https://github.com/Markzhang8617/MobileSolution/tree/main/Lab7
 
